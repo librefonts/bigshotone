@@ -1,0 +1,41 @@
+{
+  "name": "Bigshot One",
+  "designer": "Gesine Todt",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 19985,
+  "fonts": [
+    {
+      "name": "Bigshot One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BigshotOne-Regular.ttf",
+      "postScriptName": "BigshotOne",
+      "fullName": "BigshotOne",
+      "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved."
+    },
+    {
+      "name": "Bigshot One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BigshotOne-TTF.ttf",
+      "postScriptName": "BigshotOne",
+      "fullName": "Bigshot One",
+      "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved."
+    },
+    {
+      "name": "Bigshot One",
+      "style": "normal",
+      "weight": 400,
+      "filename": "BigshotOne.ttf",
+      "postScriptName": "Bigshot-One",
+      "fullName": "Bigshot-One",
+      "copyright": "Copyright (c) 2011 by Gesine Todt. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-05-04"
+}

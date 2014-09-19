@@ -1,0 +1,32 @@
+[![Build Status](https://travis-ci.org/fontdirectory/bigshotone.svg?branch=master)](https://travis-ci.org/fontdirectory/bigshotone)
+
+FONTLOG for Bigshot One fonts
+
+This file provides detailed information on the Bigshot One Font 
+Software.
+
+This information should be distributed along with the Bigshot One 
+fonts and any derivative works.
+
+Basic Font Information
+
+Bigshot One is a Unicode typeface family that supports languages that
+use the Latin script and its variants, and could be expanded to 
+support other scripts.
+
+
+ChangeLog
+
+30 Apr 2011 (Gesine Todt) Bigshot One v1
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E)
+web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
+
+N: Gesine Todt
+E: see website
+W: http://www.gesine-todt.de
+D:  v1 Design, kerning
